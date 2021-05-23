@@ -1,0 +1,9 @@
+body{
+    background-color:rgba(0,0,255,0.3);
+    padding-top: 65px;
+}
+@media (max-width: 979px) {
+    body {
+      padding-top: 0px;
+    }
+  }
